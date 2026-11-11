@@ -6,7 +6,6 @@ The project covers the entire machine learning pipeline: from Exploratory Data A
 
 Authors and Affiliation
 Alejandro Flores Hernández – 1709458
-
 Marc Dalmau Guamis – 1710713
 
 Universitat Autònoma de Barcelona (UAB) – Course: Machine Learning – Group 07
